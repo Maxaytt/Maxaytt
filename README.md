@@ -2,7 +2,7 @@
 Hi there, my name is Max and i'm a .NET backend developer. I have been studying at Częstochowa University of Technology since 2021.
 
 ## Pet projects
-- [Mercury]([https://github.com/OrganizationMercury]) - telegram-like social network
+- [Mercury](https://github.com/OrganizationMercury) - telegram-like social network
   - languages `C#` `TypeScript` `HTML` `CSS` `SQL` `Cypher`
   - technologies `.NET 8` `ASP NET Core` `Angular` `PostgreSQL` `Neo4j` `Minio` `Swagger` `Docker`
   - architecture `app - client-server` `backend - monolith`
